@@ -1,0 +1,2 @@
+# QunatumXAyvercel
+adaptive Ai
